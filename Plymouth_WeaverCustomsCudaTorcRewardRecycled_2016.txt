@@ -1,29 +1,28 @@
     {
       "unid": xxx,
-      "crdb": "Abarth_500_2014",
+      "crdb": "Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016",
       "awar": false,
       "grsp": [
-        3.91,
-        2.24,
-        1.52,
-        1.16,
-        0.87
+        2.45,
+        1.45,
+        1.0,
+        0.69
       ],
-      "fidr": 3.25,
-      "nlpr": 0.72,
+      "fidr": 2.24,
+      "nlpr": 0.88,
       "tafr": 0.5,
       "titp": 0.5,
       "trld": 0.0,
       "tssp": 0.5,
       "tssr": 0.5,
       "ttup": 0.5,
-      "ttpp": 0.36,
-      "appi": 11,
-      "orpi": 11,
-      "apiid": 356,
-      "oriid": 356,
-      "apcid": 7,
-      "orcid": 7,
+      "ttpp": 0.4,
+      "appi": 0,
+      "orpi": 0,
+      "apiid": 743,
+      "oriid": 743,
+      "apcid": 3,
+      "orcid": 3,
       "apnid": -2147483648,
       "apnzid": -2147483648,
       "apncf": -2147483648,
@@ -40,27 +39,27 @@
       "opcns": 0,
       "oppns": 0,
       "opnpid": -2147483648,
-      "aplid": 127,
-      "orlid": 127,
-      "aplzsid": 15,
-      "orlzsid": 15,
+      "aplid": -2147483648,
+      "orlid": -2147483648,
+      "aplzsid": -2147483648,
+      "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Abarth_500_2014_Wheel6A_3D"
+        "Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016_Wheel1A_3D"
       ],
-      "opcn": "Abarth_500_2014_Wheel6A_3D",
+      "opcn": "Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 202660,
+      "msou": 5979000,
       "nuub": 35,
       "ccna": 0,
       "upst": [
         {
-          "lvlo": 5,
-          "lvlf": 5,
+          "lvlo": 6,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true,
@@ -75,18 +74,8 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
+                1,
+                1,
                 0,
                 0,
                 0
@@ -96,7 +85,7 @@
               "ulpf": true,
               "fsg": [
                 1,
-                0,
+                2,
                 0,
                 0,
                 0
@@ -106,16 +95,52 @@
               "ulpf": true,
               "fsg": [
                 1,
-                0,
+                2,
                 0,
                 0,
                 0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
               ]
             },
             {
               "ulpf": true,
               "fsg": [
                 2,
+                2,
+                3,
+                3,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 6,
+          "lvlf": 6,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
                 0,
                 0,
                 0,
@@ -123,9 +148,59 @@
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
+                1,
+                1,
                 0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                2,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                3,
                 0,
                 0,
                 0,
@@ -135,8 +210,8 @@
           ]
         },
         {
-          "lvlo": 5,
-          "lvlf": 5,
+          "lvlo": 6,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true,
@@ -151,38 +226,8 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
                 1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
                 1,
-                0,
                 0,
                 0,
                 0
@@ -193,16 +238,46 @@
               "fsg": [
                 1,
                 2,
-                0,
+                3,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
+                1,
+                1,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                2,
+                3,
+                3
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                3,
                 0,
                 0,
                 0
@@ -211,8 +286,8 @@
           ]
         },
         {
-          "lvlo": 5,
-          "lvlf": 5,
+          "lvlo": 6,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true,
@@ -227,39 +302,9 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
                 1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
                 1,
-                0,
-                0,
+                2,
                 0,
                 0
               ]
@@ -269,26 +314,56 @@
               "fsg": [
                 1,
                 2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                0,
                 0,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
                 0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                3,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
               ]
             }
           ]
         },
         {
-          "lvlo": 5,
-          "lvlf": 5,
+          "lvlo": 6,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true,
@@ -303,7 +378,7 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -313,8 +388,8 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
+                1,
+                2,
                 0,
                 0,
                 0
@@ -334,37 +409,37 @@
               "ulpf": true,
               "fsg": [
                 1,
-                0,
+                2,
                 0,
                 0,
                 0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                1,
+                2,
+                3,
+                3
               ]
             },
             {
               "ulpf": true,
               "fsg": [
                 2,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
+                2,
+                3,
+                3,
+                3
               ]
             }
           ]
         },
         {
-          "lvlo": 5,
-          "lvlf": 5,
+          "lvlo": 6,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true,
@@ -379,68 +454,68 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
+                1,
                 1,
                 0,
                 0,
-                0,
                 0
               ]
             },
             {
               "ulpf": true,
               "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
                 1,
                 2,
+                3,
                 0,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
+                1,
+                2,
+                2,
+                3,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
                 0,
                 0,
                 0,
                 0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                1,
+                2,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": true,
+              "fsg": [
+                2,
+                2,
+                3,
+                3,
+                3
               ]
             }
           ]
         },
         {
-          "lvlo": 5,
-          "lvlf": 5,
+          "lvlo": 6,
+          "lvlf": 6,
           "lvls": [
             {
               "ulpf": true,
@@ -455,28 +530,8 @@
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
                 1,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -497,54 +552,18 @@
               "fsg": [
                 1,
                 2,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            }
-          ]
-        },
-        {
-          "lvlo": 5,
-          "lvlf": 5,
-          "lvls": [
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
+                2,
+                3,
                 0
               ]
             },
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                2,
+                3,
+                3,
                 0
               ]
             },
@@ -561,37 +580,17 @@
             {
               "ulpf": true,
               "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": true,
-              "fsg": [
-                1,
-                0,
-                0,
-                0,
-                0
-              ]
-            },
-            {
-              "ulpf": false,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
+                2,
+                2,
+                3,
+                3,
+                3
               ]
             }
           ]
         }
       ],
-      "fpin": 1,
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -626,17 +625,17 @@
       "fcu": false,
       "pncu": false,
       "cncu": false,
-      "cppi": 350,
-      "cepi": 550,
-      "tdut": 13.347,
-      "tdtt": 12.431,
-      "ttqm": 12.431,
-      "tthm": 20.428,
-      "tt60": 4.38,
-      "tt1h": 8.756,
-      "spqm": 107.294,
-      "sphm": 116.338,
-      "ctie": "TIER_1",
+      "cppi": 714,
+      "cepi": 1944,
+      "tdut": 11.829,
+      "tdtt": 7.94,
+      "ttqm": 4.861,
+      "tthm": 7.94,
+      "tt60": 0.433,
+      "tt1h": 0.814,
+      "spqm": 278.223,
+      "sphm": 298.325,
+      "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
         "txt": "",
@@ -645,13 +644,13 @@
       "esup": true,
       "elcl": 0,
       "gacp": false,
-      "paid": 479,
+      "paid": 919,
       "wpid": 2147483647,
-      "inid": 356,
-      "caid": 7,
-      "lzsid": 15,
-      "livid": 127,
-      "whbn": "Wheel6A_3D",
+      "inid": 743,
+      "caid": 3,
+      "lzsid": 2147483647,
+      "livid": 2147483647,
+      "whbn": "Wheel1A_3D",
       "tlad": 0.0,
       "need": false,
       "cmlv": 0,
